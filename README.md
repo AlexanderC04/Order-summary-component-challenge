@@ -31,8 +31,6 @@ Users should be able to:
 - Solution URL: (https://github.com/AlexanderC04/Order-summary-component-challenge.git)
 - Live Site URL: (https://alexanderc04.github.io/Order-summary-component-challenge/)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
